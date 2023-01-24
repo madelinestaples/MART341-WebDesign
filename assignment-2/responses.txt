@@ -1,0 +1,10 @@
+1. What is a directory, and what is its relationship to files?
+A directory is a folder and vice versa. it's relationship to files is described using familial terms, stemming from the root directory to the parent and
+child folders.
+
+2. How are VCS useful?
+VCS or Version Control Systems are useful for tracking changes on files and easily reverting back to files thus making sharing and collaboration easier.
+
+3.Do you have a favorite artistic medium? Why is it your favorite?
+My favorite artistic medium is making collages, digital or physical. It is my favorite because I like the idea of putting many different things together
+to create one piece. 

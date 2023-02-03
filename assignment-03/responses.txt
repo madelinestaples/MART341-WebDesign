@@ -1,1 +1,7 @@
 This is a test.
+What is the relationship between an IP address and the DNS?
+-The computer uses DNS (Domain Name System) to look up names and then get the associated IP (Internet Protocol) address which is used to connect your computer to the destination on the internet.
+What is a cookie?
+-A file stored on your computer.
+What are the three essential parts of a URL?
+-The protocol, domain, and path. 

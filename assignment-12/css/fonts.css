@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Fragmentcore';
+    src: url('../fonts/Fragmentcore.ttf') format('truetype');
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'Fragmentcore';
+    src: url('../fonts/Fragmentcore.ttf') format('truetype');
+    font-weight: 700;
+ }
+ 
+ @font-face {
+   font-family: 'Love';
+   src: url('../fonts/Love.ttf') format('truetype');
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Love';
+   src: url('../fonts/Love.ttf') format('truetype');
+   font-weight: 700;
+}
+

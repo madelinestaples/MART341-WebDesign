@@ -25,6 +25,6 @@ CSS Screenshots
 
 [Second](.images/-stylecss.jpg)
 
-[Third] (.images/--stylecss.jpg)
+[Third] (.images/2stylecss.jpg)
 
 [Fourth](.images/fontcss.jpg)

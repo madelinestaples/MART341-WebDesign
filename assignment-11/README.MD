@@ -1,18 +1,16 @@
-What is typography?
 
-Typography is the style and apperance of your text, and the details and process of designing it. 
+What is the difference between padding, margin, and borders?
 
-What is the importance of having fallback fonts or a font stack?
+Padding is used to create space around an elements content, inside of any defined borders.
+Margin sets the margins or boundaries of an element and has up to four values that need to be defined. 
+Borders are similar to margins in that they enclose an element and can have up to four values that need to be defined. However, borders can also be used for styling. 
 
-The importance of having fallback fonts, in a font stack, is for when the browser can't load your first font choice, so you want other similar ones for it to try and load before it goes to the most basic fonts. 
 
-What is the difference between a system font, web font, and web-safe font?
 
-A system font is one that is usually pre loaded on to most peoples devices, with no need for extra downloads. 
+Optional: how did this week's assignment go? What challenges did you face, and how did you overcome them?
 
-A web font is any font that is not a system font. These are fonts that are usually downloaded from elsewhere. It is the essential opposite of a system font. 
+I felt like overall this weeks assignment went well. However, I did have some difficulties with styling my header. I had some trouble with the colors beign exactly how I wanted them to be, so it definetly took some trial and error. 
 
-A web safe font is very similar to a system font. It is also usually presumed to be already on peoples devices, or is easy to load. 
 
 
 Index Screenshots
@@ -27,4 +25,6 @@ CSS Screenshots
 
 [Second](.images/-stylecss.jpg)
 
-[Third](.images/fontcss.jpg)
+[Third](.images/3stylecss.jpg)
+
+[Fourth](.images/fontcss.jpg)

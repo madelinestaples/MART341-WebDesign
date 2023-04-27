@@ -1,19 +1,12 @@
-What is the goal of your website? (Think in terms of your user -- why might they visit your site?)
+How did your user testing sessions go?
 
--The goal of my website is to be a professional portfolio website that I can use for job applications after college. I plan to update and adjust the information accordingly. My site 
-vistors will hopefully be potential employers and others seeking out my services. 
+The user testing sessions went pretty well! I used my roommate and mother for them. They gave me some very insightful feedback on the usability of my website. They also both had different perspectives on what worked and what didn't which was very insightful to me.
+
+What changes (if any) did you make to your website based on the user feedback you received?
+I fixed my navigation bar so that it didn't disapear when you scrolled down. I also added more content to my website. 
+
+Optional: What challenges did you face this week, and how did you overcome them?
+
+I really struggled with getting all of my portfolio boxes to be the same size. I tried many different things, but I am really hoping that in my website feedback from the professor, I will be able to get an idea of how to fix it. 
 
 
-Why is responsive web design important?
--Responsive web design is imporant because it allows your website to work well for users and to work well
- on other devices.
-
-Index Screenshots
-
-[First](./images/index.jpg)
-
-[Second](./images/-index.jpg)
-
-CSS Screenshots 
-
-[First](.images/stylecss.jpg)
